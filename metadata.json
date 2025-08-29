@@ -1,0 +1,4 @@
+{
+  "name": "AI Medical Prescription Verification",
+  "description": "An intelligent application leveraging IBM Granite models to verify medical prescriptions, check for drug interactions, calculate dosages, suggest alternatives, and extract information from medical texts."
+}
